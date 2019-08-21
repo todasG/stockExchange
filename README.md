@@ -1,6 +1,6 @@
 # stockExchange
 
-A .NET Library for retrieve Companies' data from different Stock Exchanges.
+A .NET Library for retrieving Companies' data from different Stock Exchanges.
 
 ## Installation:
 
